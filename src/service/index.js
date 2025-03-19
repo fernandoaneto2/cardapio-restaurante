@@ -1,4 +1,4 @@
-import { produtos } from "../arquivos_projeto_cardapio/Coleção de dados/data_produtos.js";
+import { produtos } from "../arquivos_projeto_cardapio/colecaoDados/data_produtos.js";
 
 export const buscarProduto = (textoDigitado) => {
   return produtos.filter(
