@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./Categorias.module.css";
+import styles from "./categorias.module.css";
 
 import icone1 from "../../../arquivos_projeto_cardapio/Imagens do projeto/entrada.png";
 import icone2 from "../../../arquivos_projeto_cardapio/Imagens do projeto/massa.png";
